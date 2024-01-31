@@ -1,0 +1,13 @@
+
+
+
+.header
+{
+    display: block;
+    position: absolute;
+    height: 15%;
+    top: 0;
+    background-color: grey;
+    text-align: center;
+    gap: 1rem;
+}

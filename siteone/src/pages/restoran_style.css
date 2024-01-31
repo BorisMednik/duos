@@ -1,0 +1,25 @@
+.restik {
+  width: 80%;
+  height: 100%;
+  margin: 10%;
+  padding: 10%;
+  box-sizing: border-box;
+}
+.name {
+  width: 100%;
+}
+.adress {
+  width: 100%;
+}
+.photo {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.disc {
+  width: 100%;
+}
+.info {
+  width: 100%;
+}

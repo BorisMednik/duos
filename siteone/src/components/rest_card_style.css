@@ -1,0 +1,41 @@
+.Card {
+  width: 100%;
+  height: auto;
+  display: flex;
+
+  padding: 1rem;
+  margin: 1rem;
+  background: #535353;
+  color: aliceblue;
+}
+.photo {
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+}
+.profile {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.profile h1 {
+  margin: 2px;
+}
+.desc {
+  width: 100%;
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+}
+.info h4 {
+  margin: 2px;
+}
+.info-block {
+  display: block;
+}
+.tilt {
+  font-weight: bolder;
+}
